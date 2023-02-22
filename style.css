@@ -1,0 +1,32 @@
+body {
+	background-color: rgb(255, 242, 250);
+	color:rgb(120,180,240);
+	font-family: Calibri
+}
+h1,{
+	font-family: Helvetica
+	letter-spacing:12px;
+		}
+
+h2,h3 {
+	font-family:Georgia;
+	font-weight: 20
+	letter-spacing:10px;
+	font-size:20px;
+}
+a{
+	text-decoration: none;
+	color: rgb (133,205,253)
+	}
+
+div {
+    display: block;
+ 	background: rgb(236,242,255);
+ 	padding : 10px;
+ 	margin : 70px ;
+ 	box-shadow: 0px 4px 8px rgba(0,0,0.1);
+ 	border-radius: 9px;
+ 	text-align: center ;
+	}
+
+
